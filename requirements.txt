@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+numpy
+torch
+timm
+trimesh
+open3d
+Pillow
